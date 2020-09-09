@@ -1,0 +1,2 @@
+# snakemake-example
+Snakemake example
